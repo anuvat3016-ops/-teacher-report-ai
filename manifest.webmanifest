@@ -1,0 +1,12 @@
+{
+  "name": "Teacher Report AI",
+  "short_name": "Teacher Report AI",
+  "description": "ระบบช่วยครูสร้างรายงานการอบรมและรายงานกิจกรรม",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#5b21b6",
+  "lang": "th",
+  "orientation": "portrait-primary"
+}
